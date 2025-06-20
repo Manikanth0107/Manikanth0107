@@ -2,7 +2,7 @@
 
 
 ##  About Me:
-Computer Science Undergraduate • AI/ML Enthusiast • Full‑Stack Developer<br>Passionate about building scalable apps and clean, maintainable code<br>Actively exploring AI/ML — Sentiment Analysis, Intrusion Detection Systems<br>Experienced in both frontend finesse (ReactJS) and backend ops (Node.js, Express, MongoDB)<br>Comfortable with Git, Docker, REST APIs, WebSockets, and CI/CD workflows<br>Internship exposure at Xebia (AI/ML) and Salesforce (CRM Platform Development)<br> Focused on building reliable systems, enhancing data quality, and performance optimization<br>Always open to tech collaborations, full-time opportunities
+Computer Science Undergraduate • AI/ML Enthusiast • Full‑Stack Developer<br>Passionate about building scalable apps and clean, maintainable code<br>Actively exploring AI/ML — Sentiment Analysis, Intrusion Detection Systems<br>Experienced in both frontend finesse (ReactJS) and backend ops (Node.js, Express, MongoDB)<br>Comfortable with Git, GitHub, Docker, REST APIs, WebSockets, and CI/CD workflows<br>Internship exposure at Xebia (AI/ML) and Salesforce (CRM Platform Development)<br> Focused on building reliable systems, enhancing data quality, and performance optimization<br>Always open to tech collaborations, full-time opportunities.
 
 
 ## 🌐 Socials:
